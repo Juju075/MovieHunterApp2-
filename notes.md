@@ -22,3 +22,24 @@ setting (ajout 2 lignes)
 "vue-html": "html",
 "vue": "html"
 },
+
+---
+
+extention vue language features
+https://www.youtube.com/watch?v=0A565GidebA
+
+---
+
+https://tailwindcss.com/
+
+Installing Tailwind CSS as a PostCSS plugin is the most seamless way to integrate it with build tools like webpack, Rollup, Vite, and Parcel.
+
+
+https://postcss.org/
+
+PostCSS is a tool for transforming styles with JS plugins. These plugins can lint your CSS, support variables and mixins, transpile future CSS syntax, inline images, and more.
+
+---
+
+
+new vue or createApp
